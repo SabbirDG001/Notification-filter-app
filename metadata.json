@@ -1,0 +1,6 @@
+{
+  "name": "Notification Filter",
+  "description": "An advanced notification filter that silences distracting messenger groups, spam chats, and low priority contacts using custom time or keyword-based rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

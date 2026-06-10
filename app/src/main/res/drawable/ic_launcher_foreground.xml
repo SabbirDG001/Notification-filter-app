@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Metallic Shadow Shield Base -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M 34,24 L 54,16 L 74,24 L 74,54 C 74,68 54,84 54,84 C 54,84 34,68 34,54 Z" />
+
+    <!-- Pure Contrast Shield Overlay -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M 38,28 L 54,21 L 70,28 L 70,52 C 70,64 54,78 54,78 C 54,78 38,64 38,52 Z" />
+
+    <!-- Center Silent Bell in Deep Navy -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M 54,34 C 58.4,34 62,37.6 62,42 L 62,54 L 66,58 L 66,60 L 42,60 L 42,58 L 46,54 L 46,42 C 46,37.6 49.6,34 54,34 Z" />
+
+    <!-- Bell Clapper -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M 51,63 C 51,64.7 52.3,66 54,66 C 55.7,66 57,64.7 57,63 Z" />
+
+    <!-- Small Mute check indicator badge on bottom right -->
+    <path
+        android:fillColor="#EF6C00"
+        android:pathData="M 68,58 C 65.23,58 63,60.23 63,63 C 63,65.76 65.23,68 68,68 C 70.76,68 73,65.76 73,63 C 73,60.23 70.76,58 68,58 Z" />
+</vector>
